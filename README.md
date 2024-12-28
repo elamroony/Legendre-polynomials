@@ -1,2 +1,3 @@
 # Legendre-polynomials
 Legendre polynomials for time points
+Orthogonal polynomials are used with longitudinal data to model the shape of the curve for the trait of interest (e.g., age or lactation curves). The reason is because orthogonal polynomials are less correlated to each other than would be the correlation between polynomials of the phenotypes (e.g., age). One simple type of orthogonal polynomials are Legendre polynomials. In order to use Legendre polynomials or other kinds of orthogonal polynomials, the time values (whole integer numbers) must be scaled to range from -1 to +1. These R and python codes do the same. First generate standardize the time and then generate Legendre polynomials given a desired order.  
