@@ -3,9 +3,10 @@ Orthogonal polynomials are used with longitudinal data to model the shape of the
 
 
 #### A small example was taken from Mrode 2014 for 10 days in milk:
-```R
+```
 DIM = 4, 38 ,72 ,106 ,140 ,174 ,208 ,242 ,276 ,310
  ```
+
 ##### The output of the example:
 ```
          [,1]       [,2]       [,3]        [,4]        [,5]
