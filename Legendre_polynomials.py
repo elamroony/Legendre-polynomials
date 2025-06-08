@@ -1,7 +1,3 @@
-for name in dir():
-    if not name.startswith('_'):
-        del globals()[name]
-
 import pandas as pd
 import os
 import numpy as np
