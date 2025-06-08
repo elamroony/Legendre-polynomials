@@ -1,4 +1,3 @@
-rm(list=ls(all=TRUE))
 # Legendre Polynomials:
 #==========================================================================#
 # Standardizing Time Points as a Covariate
